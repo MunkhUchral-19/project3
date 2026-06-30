@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container2{
+    width:850px;
+    height: 1500px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+
+}
+.container3{
+    width: 850px;
+    height: 700px;
+    background-color: mediumaquamarine;
+}
+.cardcontainer{
+    width: 1600px;
+    height: 700px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.charmander{
+    height: 600px;
+    width: 450px;
+    background-color: maroon;
+}
+.charmeleon{
+    height: 600px;
+    width: 450px;
+    background-color: maroon;
+}
+.charizard{
+    height: 600px;
+    width: 450px;
+    background-color: maroon;
+}
